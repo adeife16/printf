@@ -78,98 +78,99 @@
 1697464065 source:/home/adecoder/Desktop/practice/printf/print_num_oct.c
 	"main.h"
 
-1697541213 source:/home/adecoder/Desktop/printf/_printf.c
+1697547898 source:/home/adecoder/Desktop/printf/_printf.c
 	"main.h"
+	<stdarg.h>
 
 1697545035 /home/adecoder/Desktop/printf/main.h
 	<stdarg.h>
 	<unistd.h>
 	<stdlib.h>
 
-1650206620 source:/home/adecoder/Desktop/printf/_putchar.c
+1697547942 source:/home/adecoder/Desktop/printf/_putchar.c
 	<unistd.h>
 	"main.h"
 
-1697544924 source:/home/adecoder/Desktop/printf/ev_print_func.c
+1697548021 source:/home/adecoder/Desktop/printf/ev_print_func.c
 	"main.h"
 
-1697542266 source:/home/adecoder/Desktop/printf/fill_binary_array.c
+1697548371 source:/home/adecoder/Desktop/printf/fill_binary_array.c
 	"main.h"
 
-1697542266 source:/home/adecoder/Desktop/printf/fill_hex_array.c
+1697548449 source:/home/adecoder/Desktop/printf/fill_hex_array.c
 	"main.h"
 
-1697460606 source:/home/adecoder/Desktop/printf/fill_long_oct_array.c
+1697548694 source:/home/adecoder/Desktop/printf/fill_long_oct_array.c
 	"main.h"
 
-1697460734 source:/home/adecoder/Desktop/printf/fill_oct_array.c
+1697548825 source:/home/adecoder/Desktop/printf/fill_oct_array.c
 	"main.h"
 
-1697460805 source:/home/adecoder/Desktop/printf/fill_short_oct_array.c
+1697548850 source:/home/adecoder/Desktop/printf/fill_short_oct_array.c
 	"main.h"
 
 1697542266 source:/home/adecoder/Desktop/printf/handl_buf.c
 	"main.h"
 
-1697461322 source:/home/adecoder/Desktop/printf/main.c
+1697549466 source:/home/adecoder/Desktop/printf/main.c
 	<limits.h>
 	<stdio.h>
 	"main.h"
 
-1697545058 source:/home/adecoder/Desktop/printf/print_add.c
+1697549712 source:/home/adecoder/Desktop/printf/print_add.c
 	"main.h"
 	<stdio.h>
 
-1697542266 source:/home/adecoder/Desktop/printf/print_bnr.c
+1697549814 source:/home/adecoder/Desktop/printf/print_bnr.c
 	"main.h"
 
-1697462024 source:/home/adecoder/Desktop/printf/print_buf.c
+1697549995 source:/home/adecoder/Desktop/printf/print_buf.c
 	"main.h"
 
-1697542301 source:/home/adecoder/Desktop/printf/print_chr.c
+1697550107 source:/home/adecoder/Desktop/printf/print_chr.c
 	"main.h"
 	<stdio.h>
 
-1697545068 source:/home/adecoder/Desktop/printf/print_hex.c
+1697550673 source:/home/adecoder/Desktop/printf/print_hex.c
 	"main.h"
 
-1697542266 source:/home/adecoder/Desktop/printf/print_int.c
+1697550801 source:/home/adecoder/Desktop/printf/print_int.c
 	"main.h"
 
 1697545078 source:/home/adecoder/Desktop/printf/print_long_hex.c
 	"main.h"
 
-1697542266 source:/home/adecoder/Desktop/printf/print_long_int.c
+1697551414 source:/home/adecoder/Desktop/printf/print_long_int.c
 	"main.h"
 
-1697542266 source:/home/adecoder/Desktop/printf/print_long_oct.c
+1697552043 source:/home/adecoder/Desktop/printf/print_long_oct.c
 	"main.h"
 
-1697542266 source:/home/adecoder/Desktop/printf/print_long_unt.c
+1697553810 source:/home/adecoder/Desktop/printf/print_long_unt.c
 	"main.h"
 
-1697545087 source:/home/adecoder/Desktop/printf/print_long_upx.c
+1697553971 source:/home/adecoder/Desktop/printf/print_long_upx.c
 	"main.h"
 
-1697545095 source:/home/adecoder/Desktop/printf/print_num_hex.c
+1697554231 source:/home/adecoder/Desktop/printf/print_num_hex.c
 	"main.h"
 
-1697544993 source:/home/adecoder/Desktop/printf/get_print_func.c
+1697549175 source:/home/adecoder/Desktop/printf/get_print_func.c
 	"main.h"
 
-1697464065 source:/home/adecoder/Desktop/printf/print_num_oct.c
+1697554058 source:/home/adecoder/Desktop/printf/print_num_oct.c
 	"main.h"
 
-1697545128 source:/home/adecoder/Desktop/printf/print_num_upx.c
+1697554091 source:/home/adecoder/Desktop/printf/print_num_upx.c
 	"main.h"
 
-1697542266 source:/home/adecoder/Desktop/printf/print_oct.c
+1697554231 source:/home/adecoder/Desktop/printf/print_oct.c
 	"main.h"
 
-1697467553 source:/home/adecoder/Desktop/printf/print_plus_hex.c
+1697554196 source:/home/adecoder/Desktop/printf/print_plus_hex.c
 	"main.h"
 
-1697541573 source:/home/adecoder/Desktop/printf/print_plus_int.c
+1697554231 source:/home/adecoder/Desktop/printf/print_plus_int.c
 	"main.h"
 
 1697467372 source:/home/adecoder/Desktop/printf/print_plus_oct.c
@@ -205,7 +206,7 @@
 1697546507 source:/home/adecoder/Desktop/printf/print_upx.c
 	"main.h"
 
-1697542266 source:/home/adecoder/Desktop/printf/print_usr.c
+1697546540 source:/home/adecoder/Desktop/printf/print_usr.c
 	"main.h"
 
 1697467903 source:/home/adecoder/Desktop/practice/printf/print_plus_unt.c
