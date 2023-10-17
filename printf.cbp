@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="printf" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/printf" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/printf" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../../printf/_printf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/_putchar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/ev_print_func.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/fill_binary_array.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/fill_hex_array.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/fill_long_oct_array.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/fill_oct_array.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/fill_short_oct_array.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/get_print_func.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/handl_buf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/main.h" />
+		<Unit filename="../../printf/print_add.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_bnr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_buf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_chr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_hex.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_int.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_long_hex.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_long_int.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_long_oct.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_long_unt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_long_upx.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_num_hex.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_num_oct.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_num_upx.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_oct.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_plus_hex.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_plus_int.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_plus_oct.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_prg.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_rev.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_rot.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_short_hex.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_short_int.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_short_oct.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_short_unt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_short_upx.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_space_int.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_str.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_unt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_upx.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../printf/print_usr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fill_hex_point_array.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="print_luhex.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="print_plus_unt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="print_plus_uphex.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="print_point.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="print_spc_int.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="print_upshex.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

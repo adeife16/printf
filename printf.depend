@@ -1,0 +1,269 @@
+# depslib dependency file v1.0
+1697461322 source:/home/adecoder/Desktop/practice/printf/main.c
+	<limits.h>
+	<stdio.h>
+	"main.h"
+
+1697461238 /home/adecoder/Desktop/practice/printf/main.h
+	<stdarg.h>
+	<unistd.h>
+	<stdlib.h>
+
+1697458007 source:/home/adecoder/Desktop/practice/printf/_printf.c
+	"main.h"
+
+1650206620 source:/home/adecoder/Desktop/practice/printf/_putchar.c
+	<unistd.h>
+	"main.h"
+
+1697458224 source:/home/adecoder/Desktop/practice/printf/ev_print_func.c
+	"main.h"
+
+1697458301 source:/home/adecoder/Desktop/practice/printf/fill_binary_array.c
+	"main.h"
+
+1697458370 source:/home/adecoder/Desktop/practice/printf/fill_hex_array.c
+	"main.h"
+
+1697460606 source:/home/adecoder/Desktop/practice/printf/fill_long_oct_array.c
+	"main.h"
+
+1697460734 source:/home/adecoder/Desktop/practice/printf/fill_oct_array.c
+	"main.h"
+
+1697460805 source:/home/adecoder/Desktop/practice/printf/fill_short_oct_array.c
+	"main.h"
+
+1697461114 source:/home/adecoder/Desktop/practice/printf/handl_buf.c
+	"main.h"
+
+1697462260 source:/home/adecoder/Desktop/practice/printf/print_add.c
+	"main.h"
+	<stdio.h>
+
+1697461814 source:/home/adecoder/Desktop/practice/printf/print_bnr.c
+	"main.h"
+
+1697462024 source:/home/adecoder/Desktop/practice/printf/print_buf.c
+	"main.h"
+
+1697462128 source:/home/adecoder/Desktop/practice/printf/print_chr.c
+	"main.h"
+	<stdio.h>
+
+1697462322 source:/home/adecoder/Desktop/practice/printf/print_hex.c
+	"main.h"
+
+1697462390 source:/home/adecoder/Desktop/practice/printf/print_int.c
+	"main.h"
+
+1697462427 source:/home/adecoder/Desktop/practice/printf/print_long_hex.c
+	"main.h"
+
+1697462485 source:/home/adecoder/Desktop/practice/printf/print_long_int.c
+	"main.h"
+
+1697462542 source:/home/adecoder/Desktop/practice/printf/print_long_oct.c
+	"main.h"
+
+1697462619 source:/home/adecoder/Desktop/practice/printf/print_long_unt.c
+	"main.h"
+
+1697462655 source:/home/adecoder/Desktop/practice/printf/print_long_upx.c
+	"main.h"
+
+1697464000 source:/home/adecoder/Desktop/practice/printf/print_num_hex.c
+	"main.h"
+
+1697464065 source:/home/adecoder/Desktop/practice/printf/print_num_oct.c
+	"main.h"
+
+1697541213 source:/home/adecoder/Desktop/printf/_printf.c
+	"main.h"
+
+1697545035 /home/adecoder/Desktop/printf/main.h
+	<stdarg.h>
+	<unistd.h>
+	<stdlib.h>
+
+1650206620 source:/home/adecoder/Desktop/printf/_putchar.c
+	<unistd.h>
+	"main.h"
+
+1697544924 source:/home/adecoder/Desktop/printf/ev_print_func.c
+	"main.h"
+
+1697542266 source:/home/adecoder/Desktop/printf/fill_binary_array.c
+	"main.h"
+
+1697542266 source:/home/adecoder/Desktop/printf/fill_hex_array.c
+	"main.h"
+
+1697460606 source:/home/adecoder/Desktop/printf/fill_long_oct_array.c
+	"main.h"
+
+1697460734 source:/home/adecoder/Desktop/printf/fill_oct_array.c
+	"main.h"
+
+1697460805 source:/home/adecoder/Desktop/printf/fill_short_oct_array.c
+	"main.h"
+
+1697542266 source:/home/adecoder/Desktop/printf/handl_buf.c
+	"main.h"
+
+1697461322 source:/home/adecoder/Desktop/printf/main.c
+	<limits.h>
+	<stdio.h>
+	"main.h"
+
+1697545058 source:/home/adecoder/Desktop/printf/print_add.c
+	"main.h"
+	<stdio.h>
+
+1697542266 source:/home/adecoder/Desktop/printf/print_bnr.c
+	"main.h"
+
+1697462024 source:/home/adecoder/Desktop/printf/print_buf.c
+	"main.h"
+
+1697542301 source:/home/adecoder/Desktop/printf/print_chr.c
+	"main.h"
+	<stdio.h>
+
+1697545068 source:/home/adecoder/Desktop/printf/print_hex.c
+	"main.h"
+
+1697542266 source:/home/adecoder/Desktop/printf/print_int.c
+	"main.h"
+
+1697545078 source:/home/adecoder/Desktop/printf/print_long_hex.c
+	"main.h"
+
+1697542266 source:/home/adecoder/Desktop/printf/print_long_int.c
+	"main.h"
+
+1697542266 source:/home/adecoder/Desktop/printf/print_long_oct.c
+	"main.h"
+
+1697542266 source:/home/adecoder/Desktop/printf/print_long_unt.c
+	"main.h"
+
+1697545087 source:/home/adecoder/Desktop/printf/print_long_upx.c
+	"main.h"
+
+1697545095 source:/home/adecoder/Desktop/printf/print_num_hex.c
+	"main.h"
+
+1697544993 source:/home/adecoder/Desktop/printf/get_print_func.c
+	"main.h"
+
+1697464065 source:/home/adecoder/Desktop/printf/print_num_oct.c
+	"main.h"
+
+1697545128 source:/home/adecoder/Desktop/printf/print_num_upx.c
+	"main.h"
+
+1697542266 source:/home/adecoder/Desktop/printf/print_oct.c
+	"main.h"
+
+1697467553 source:/home/adecoder/Desktop/printf/print_plus_hex.c
+	"main.h"
+
+1697541573 source:/home/adecoder/Desktop/printf/print_plus_int.c
+	"main.h"
+
+1697467372 source:/home/adecoder/Desktop/printf/print_plus_oct.c
+	"main.h"
+
+1697545158 source:/home/adecoder/Desktop/printf/print_prg.c
+	"main.h"
+
+1697545172 source:/home/adecoder/Desktop/printf/print_rev.c
+	"main.h"
+
+1697545190 source:/home/adecoder/Desktop/printf/print_rot.c
+	"main.h"
+
+1697545808 source:/home/adecoder/Desktop/printf/print_short_int.c
+	"main.h"
+
+1697545840 source:/home/adecoder/Desktop/printf/print_short_oct.c
+	"main.h"
+
+1697545855 source:/home/adecoder/Desktop/printf/print_short_unt.c
+	"main.h"
+
+1697546472 source:/home/adecoder/Desktop/printf/print_space_int.c
+	"main.h"
+
+1697546484 source:/home/adecoder/Desktop/printf/print_str.c
+	"main.h"
+
+1697546488 source:/home/adecoder/Desktop/printf/print_unt.c
+	"main.h"
+
+1697546507 source:/home/adecoder/Desktop/printf/print_upx.c
+	"main.h"
+
+1697542266 source:/home/adecoder/Desktop/printf/print_usr.c
+	"main.h"
+
+1697467903 source:/home/adecoder/Desktop/practice/printf/print_plus_unt.c
+	"main.h"
+
+1697468043 source:/home/adecoder/Desktop/practice/printf/print_plus_uphex.c
+	"main.h"
+
+1697468266 source:/home/adecoder/Desktop/practice/printf/print_spc_int.c
+	"main.h"
+
+1697545240 source:/home/adecoder/Desktop/printf/print_short_hex.c
+	"main.h"
+
+1697545912 source:/home/adecoder/Desktop/printf/print_short_upx.c
+	"main.h"
+
+1697469583 source:/home/adecoder/Desktop/practice/printf/print_point.c
+	"main.h"
+
+1697469825 source:/home/adecoder/Desktop/practice/printf/print_luhex.c
+
+1697471560 source:/home/adecoder/Desktop/practice/printf/print_upshex.c
+	"main.h"
+
+1697471514 source:/home/adecoder/Desktop/practice/printf/fill_hex_point_array.c
+	"main.h"
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<stdlib.h>
+
+1697471514 source:/home/adecoder/Desktop/alx/printf/fill_hex_point_array.c
+	"main.h"
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<stdlib.h>
+
+1697461238 /home/adecoder/Desktop/alx/printf/main.h
+	<stdarg.h>
+	<unistd.h>
+	<stdlib.h>
+
+1697469825 source:/home/adecoder/Desktop/alx/printf/print_luhex.c
+
+1697467903 source:/home/adecoder/Desktop/alx/printf/print_plus_unt.c
+	"main.h"
+
+1697468043 source:/home/adecoder/Desktop/alx/printf/print_plus_uphex.c
+	"main.h"
+
+1697469583 source:/home/adecoder/Desktop/alx/printf/print_point.c
+	"main.h"
+
+1697468266 source:/home/adecoder/Desktop/alx/printf/print_spc_int.c
+	"main.h"
+
+1697471560 source:/home/adecoder/Desktop/alx/printf/print_upshex.c
+	"main.h"
+
