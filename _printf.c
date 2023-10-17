@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * custom_printf - a custom implementation of printf
+ * _printf - a custom implementation of printf
  * @format: input string.
  *
  * Return: number of characters printed.
  */
-int custom_printf(const char *format, ...)
+int _printf(const char *format, ...)
 {
     unsigned int i = 0, char_count = 0, buffer_index = 0;
     va_list args;
