@@ -34,9 +34,9 @@ int _printf(const char *format, ...)
 			{
 				print_buffer(output_buffer, buffer_index);
 				free(output_buffer);
-				va_end(args);
-				return (-1);
-			}
+                		va_end(args);
+                		return (-1);
+            		}
 			else
 			{
 				print_function = get_print_function(format, i + 1);
@@ -67,7 +67,7 @@ int _printf(const char *format, ...)
 
 		for (buffer_index = char_count; buffer_index > 1024; buffer_index -= 1024)
 		{
-			/* Adjust the buffer index. */
+			// Adjust the buffer index.
 		}
 	}
 
