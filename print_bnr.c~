@@ -24,8 +24,8 @@ int print_binary(va_list arguments, char *buf, unsigned int ibuf)
 
     if (integer_input < 0)
     {
-		integer_input = (integer_input * -1) - 1;
-		is_negative = 1;
+        integer_input = (integer_input * -1) - 1;
+        is_negative = 1;
     }
 
     binary = malloc(sizeof(char) * (32 + 1));
@@ -35,16 +35,16 @@ int print_binary(va_list arguments, char *buf, unsigned int ibuf)
 
     for (count = i = 0; binary[i]; i++)
     {
-		if (first_one == 0 && binary[i] == '1')
-		first_one = 1;
+        if (first_one == 0 && binary[i] == '1')
+            first_one = 1;
 
-		if (first_one == 1)
-		{
-			ibuf = handle_buffer(buf, binary[i], ibuf);
-			count++;
-		}
+        if (first_one == 1)
+        {
+            ibuf = handle_buffer(buf, binary[i], ibuf);
+            count++;
+        }
     }
 
     free(binary);
-    return (count);
+    return count;
 }
